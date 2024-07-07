@@ -1,70 +1,15 @@
-<h2 align="left">Hi 👋! My name is Rajdeep Duta and I'm a Passionate Full Stack Developer in Training</h2>
+h1 align=centerHi 👋, I'm Rajdeep Duttah1
+h3 align=centerA Passionate Full Stack Developer in Progressh3
 
-###
+- 🌱 I’m currently learning php, postgresSQL and DL
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-</div>
+- 📫 How to reach me rajdeepdutta.1311@gmail.com
 
-###
+h3 align=leftConnect with meh3
+p align=left
+a href=httpstwitter.comits_rajdeep_d target=blankimg align=center src=httpsraw.githubusercontent.comrahuldkjaingithub-profile-readme-generatormastersrcimagesiconsSocialtwitter.svg alt=its_rajdeep_d height=30 width=40 a
+a href=httpsinstagram.comits_rajdeep_ target=blankimg align=center src=httpsraw.githubusercontent.comrahuldkjaingithub-profile-readme-generatormastersrcimagesiconsSocialinstagram.svg alt=its_rajdeep_ height=30 width=40 a
+p
 
-<div align="left">
-  <a href="https://www.instagram.com/its_rajdeep_?igsh=MXVjdmFzdDBybnN0Zg==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="rajdeepdutta.1311@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://x.com/its_rajdeep_d?t=0sA6wfbDXY-NEfSHWhTrTA&s=09" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-</div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
+h3 align=leftLanguages and Toolsh3
+p align=left a href=httpsgetbootstrap.com target=_blank rel=noreferrer img src=httpsraw.githubusercontent.comdeviconsdeviconmastericonsbootstrapbootstrap-plain-wordmark.svg alt=bootstrap width=40 height=40 a a href=httpswww.cprogramming.com target=_blank rel=noreferrer img src=httpsraw.githubusercontent.comdeviconsdeviconmastericonscc-original.svg alt=c width=40 height=40 a a href=httpswww.w3schools.comcpp target=_blank rel=noreferrer img src=httpsraw.githubusercontent.comdeviconsdeviconmastericonscpluspluscplusplus-original.svg alt=cplusplus width=40 height=40 a a href=httpswww.w3schools.comcss target=_blank rel=noreferrer img src=httpsraw.githubusercontent.comdeviconsdeviconmastericonscss3css3-original-wordmark.svg alt=css3 width=40 height=40 a a href=httpsexpressjs.com target=_blank rel=noreferrer img src=httpsraw.githubusercontent.comdeviconsdeviconmastericonsexpressexpress-original-wordmark.svg alt=express width=40 height=40 a a href=httpsfirebase.google.com target=_blank rel=noreferrer img src=httpswww.vectorlogo.zonelogosfirebasefirebase-icon.svg alt=firebase width=40 height=40 a a href=httpswww.w3.orghtml target=_blank rel=noreferrer img src=httpsraw.githubusercontent.comdeviconsdeviconmastericonshtml5html5-original-wordmark.svg alt=html5 width=40 height=40 a a href=httpswww.java.com target=_blank rel=noreferrer img src=httpsraw.githubusercontent.comdeviconsdeviconmastericonsjavajava-original.svg alt=java width=40 height=40 a a href=httpsdeveloper.mozilla.orgen-USdocsWebJavaScript target=_blank rel=noreferrer img src=httpsraw.githubusercontent.comdeviconsdeviconmastericonsjavascriptjavascript-original.svg alt=javascript width=40 height=40 a a href=httpswww.mongodb.com target=_blank rel=noreferrer img src=httpsraw.githubusercontent.comdeviconsdeviconmastericonsmongodbmongodb-original-wordmark.svg alt=mongodb width=40 height=40 a a href=httpswww.mysql.com target=_blank rel=noreferrer img src=httpsraw.githubusercontent.comdeviconsdeviconmastericonsmysqlmysql-original-wordmark.svg alt=mysql width=40 height=40 a a href=httpsnodejs.org target=_blank rel=noreferrer img src=httpsraw.githubusercontent.comdeviconsdeviconmastericonsnodejsnodejs-original-wordmark.svg alt=nodejs width=40 height=40 a a href=httpspandas.pydata.org target=_blank rel=noreferrer img src=httpsraw.githubusercontent.comdeviconsdevicon2ae2a900d2f041da66e950e4d48052658d850630iconspandaspandas-original.svg alt=pandas width=40 height=40 a a href=httpswww.php.net target=_blank rel=noreferrer img src=httpsraw.githubusercontent.comdeviconsdeviconmastericonsphpphp-original.svg alt=php width=40 height=40 a a href=httpswww.postgresql.org target=_blank rel=noreferrer img src=httpsraw.githubusercontent.comdeviconsdeviconmastericonspostgresqlpostgresql-original-wordmark.svg alt=postgresql width=40 height=40 a a href=httpspugjs.org target=_blank rel=noreferrer img src=httpscdn.worldvectorlogo.comlogospug.svg alt=pug width=40 height=40 a a href=httpswww.python.org target=_blank rel=noreferrer img src=httpsraw.githubusercontent.comdeviconsdeviconmastericonspythonpython-original.svg alt=python width=40 height=40 a a href=httpspytorch.org target=_blank rel=noreferrer img src=httpswww.vectorlogo.zonelogospytorchpytorch-icon.svg alt=pytorch width=40 height=40 a a href=httpsreactjs.org target=_blank rel=noreferrer img src=httpsraw.githubusercontent.comdeviconsdeviconmastericonsreactreact-original-wordmark.svg alt=react width=40 height=40 a a href=httpsreactnative.dev target=_blank rel=noreferrer img src=httpsreactnative.devimgheader_logo.svg alt=reactnative width=40 height=40 a p
